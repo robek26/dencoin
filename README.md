@@ -1,4 +1,4 @@
-# dencoin
+# Dencoin
 
 Install the following libraries and distribution to use Dencoin.
 
