@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>chain_small.png</file>
+    <file>chain_v_small.png</file>
+    <file>chain.png</file>
+    <file>lion_small2.png</file>
+    <file>lion_small3.png</file>
+  </qresource>
+</RCC>
